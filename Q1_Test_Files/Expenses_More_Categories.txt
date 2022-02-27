@@ -1,0 +1,10 @@
+Rent 300.50
+Gas 50
+Food 200.43
+Clothing 100.25
+Car Payment 50
+Medical 75.50
+Dentist 10.20
+Pet 99.99
+Transit 68.80
+Misc 100
