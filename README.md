@@ -10,7 +10,7 @@ A program that reads data in a text file containing expenses for 6 pre-specified
 It then plots a pie chart using MatPlotLib.
 
 ### Additional Functionality Added
-My program added increased functionality, such as allowing the user to select from multiple test files, or choose a location to use their own text file. I ensured that each test file used a relative file path to ensure that any user who downloads the zip file is able to use the program successfully. The program also loops to allow ease of use if the user wishes to look at another file of expenses. 
+My program added increased functionality, such as allowing the user to select from multiple test files, or choose a location to use their own text file. The program also loops to allow ease of use if the user wishes to look at another file of expenses. 
 
 I achieved these additional elements by having a function to display a menu if the user decides to not run the default program. This function is recursive and calls itself if the user decides to “go back” when prompted.
 
